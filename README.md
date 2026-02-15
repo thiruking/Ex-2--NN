@@ -131,9 +131,11 @@ plt.show()
 
 # OUTPUT:
 
-   <img width="1360" height="537" alt="image" src="https://github.com/user-attachments/assets/ce7fb8ce-e7c4-4e84-841e-27b1eba44cdc" />
-<img width="1380" height="543" alt="image" src="https://github.com/user-attachments/assets/bfdb9755-664c-414b-8f0e-af20b5c4abd6" />
-<img width="1394" height="714" alt="image" src="https://github.com/user-attachments/assets/75eea39e-08e2-4525-85d0-218a40179bb5" />
+<img width="758" height="740" alt="image" src="https://github.com/user-attachments/assets/0b45d068-12be-46b2-a3a2-110f0a7ab0dd" />
+<img width="632" height="538" alt="image" src="https://github.com/user-attachments/assets/95d32cf6-bfc4-4b79-987f-dccd46e5db07" />
+<img width="623" height="502" alt="image" src="https://github.com/user-attachments/assets/0490972b-96a3-4fb5-806d-29797596692e" />
+
+
 
 
 # RESULT:
